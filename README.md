@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Chetan
+- 👀 I’m interested in Computers, Programming, Data Science, History, Astronomy and anything unexplored.
+- 🌱 I’m currently learning Statistics, Algorithms and Machine Learning
